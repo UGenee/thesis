@@ -1,0 +1,215 @@
+body {
+    font-family: 'Prata';
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(to right, #06413D, #068b83);
+    overflow-x: hidden;
+}
+.contact-container {
+    max-width: 600px;
+    margin: 100px auto;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 0 3px rgba(66, 153, 225, 0.5);
+    padding: 30px;
+    text-align: center;
+    background: linear-gradient(to right, #068b83, #06413D);
+}
+h1 {
+    color: #EFD9CC;
+}
+p {
+    color: #EFD9CC;
+    margin-bottom: 20px;
+}
+form {
+    text-align: left;
+}
+.form-group {
+    margin-bottom: 20px;
+}
+label {
+    display: block;
+    margin-bottom: 8px;
+    color: #333;
+    font-weight: bold;
+}
+input, textarea {
+    width: 100%;
+    padding: 12px;
+    margin-bottom: 15px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+button {
+    background-color: #0072c6;
+    color: #fff;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+}
+button:hover {
+    background-color: #005a9e;
+}
+.contact-details {
+    margin-top: 30px;
+}
+.contact-details h2 {
+    color: #EFD9CC;
+    margin-bottom: 10px;
+}
+.contact-details p {
+    color: #EFD9CC;
+    margin-bottom: 8px;
+}
+.contact-details a {
+    color: #0072c6;
+    text-decoration: none;
+}
+.contact-details a:hover {
+    text-decoration: underline;
+}
+/* Header */
+.top-container {
+	background-color: #06413D;
+	width: 100%;
+	height: 100px;
+}
+.logo {
+	max-width: 100%;
+	max-height: 100%;
+	width: 350px;
+	cursor: pointer;
+	margin-left: 20px;
+}
+#logo {
+  max-width: 100%;
+  max-height: 100%;
+  width: 30%;
+  padding: 1px;
+  cursor: pointer;
+  display: inherit;
+}
+.topnav {
+	overflow: hidden;
+	color: white;
+	justify-content: space-between;
+	align-items: center;
+	text-align: center;
+	background-color: rgb(253, 244, 238, 0.6);
+	height: 80px;
+	width: 100%;
+	border-radius: 35px;
+	display: flex;
+	position: fixed;
+	top: 10px;
+	z-index: 1000;
+	transition: top 0.3s;
+}
+.topnav .s {
+	text-align: center;
+	text-decoration: none;
+	font-size: 20px;
+	color:  #06413D;
+	display: block;
+	width: 100%;
+	margin-right: 50px;
+  font-family: 'Prata';
+}
+.topnav .s.active {
+	color: #06413D;
+}
+a.active {
+	background-color: rgb(253, 244, 238, 0.0);
+}
+.bold {
+	font-weight: bold;
+}
+nav {
+	display: flex;
+}
+/* Footer */
+footer {
+  background-color: #06413D;
+  color: #fff;
+  padding: 0px 0;
+}
+footer p {
+  font-size: 15px;
+  color: #EFD9CC;
+}
+.footer-container {
+  display: flex;
+  max-width: 100%;
+  margin: 0 auto;
+  height: 100%;
+  grid-template-columns: 1fr 0fr;
+}
+.footer-section-about {
+  width: 100%;
+  text-align: left;
+  float: left;
+  background-color: #06413D;
+  padding: 20px;
+  max-width: 100%;
+}
+.footer-section-about h1 {
+  color: #EFD9CC;
+  margin-bottom: 10px;
+  text-align: left;
+  width: 100%;
+  margin: 21.44px 0px 10px 20px;
+}
+.footer-section-about p {
+  width: 100%;
+}
+.footer-section-about2 {
+  width: 100%;
+  text-align: left;
+  background-color: #06413D;
+  padding: 20px;
+  max-width: 100%;
+}
+.footer-section-about2 p {
+  font-size: 25px;
+  width: 100%;
+  margin-top: 20px;
+}
+.footer {
+  background-color: #06413D;
+  color: #EFD9CC;
+  padding: 20px 0;
+  text-align: center; /* Center align the content */
+  display: flex;
+  flex-direction: column; /* Stack items vertically */
+  align-items: center; /* Center horizontally */
+}
+.footer p {
+  font-size: 15px;
+  margin: 0; /* Remove default margin */
+}
+.footer-links {
+  display: flex;
+  justify-content: center; /* Center align the anchor links horizontally */
+  margin-top: 10px; /* Add space between paragraph and anchor links */
+}
+.footer a {
+  color: #EFD9CC;
+  text-decoration: none;
+  margin: 0 20px; /* Add space around anchor links */
+  font-size: large;
+}
+.footer-line {
+  background-color: #06413D;
+  visibility: visible;
+  width: 100%;
+  margin-top: 10px; /* Add some space above the line */
+}
+hr {
+    visibility: hidden;
+}
+/* Footer */

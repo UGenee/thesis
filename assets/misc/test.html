@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Local File Navigation</title>
+    <script src="navigation.js" defer></script>
+</head>
+<body>
+    <nav>
+        <ul>
+            <li><a href="home.html" onclick="navigateToLocalFile('file1.html')">File 1</a></li>
+            <li><a href="#" onclick="navigateToLocalFile('file2.html')">File 2</a></li>
+            <!-- Add more links as needed -->
+        </ul>
+    </nav>
+</body>
+<script>
+function navigateToLocalFile(filePath) {
+    // Use window.location.href to navigate to the local file
+    window.location.href = filePath;
+}
+</script>
+</html>

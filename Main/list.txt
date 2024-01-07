@@ -1,0 +1,53 @@
+italian 8 
+ricotta pancakes
+
+fusion 8
+sweet corn pancakes
+sipo eggs
+
+australia 8
+
+
+american 8
+
+
+chinese 8
+DONE - Divine
+friedrice
+Congee
+
+argentina 8
+Bunuelos de Espinaca
+
+
+french 8
+DONE - Andrew
+
+African 8
+mandazi and chai
+
+
+breakfast *
+ricotta
+sweetcorn
+Espinaca
+mandazi
+friedrice
+dumpling
+
+
+brunch *
+italianbaked
+Pan fried pork bun
+Stuffed stickey rice rolls
+
+
+lunch  * 
+sipo eggs
+sisig
+Congee
+Chinese spring rolls
+
+dinner  *
+Kung pao chicken
+Mapo tofu

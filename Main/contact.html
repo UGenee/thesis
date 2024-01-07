@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Us | Taste A Place</title>
+    <link rel="stylesheet" type="text/css" href="contact.css">
+    <link href='https://fonts.googleapis.com/css?family=Prata' rel='stylesheet'>
+    <link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet'>
+    <link href='https://fonts.googleapis.com/css?family=Oswald' rel='stylesheet'>
+    <link href='https://fonts.googleapis.com/css?family=Abril Fatface' rel='stylesheet'>
+
+</head>
+<body>
+  <center>
+    <div class="topnav">
+    <img class="logo" src="/images/logotrsp1.png" alt="Taste A Place">
+      <nav>
+    <a class="s" href="/Main/home.html" onclick="navigateToLocalFile('home.html')">Home</a>
+    <a class="s" href="/Main/recipes.html" onclick="navigateToLocalFile('recipes.html')">Recipes</a>
+    <a class="s" href="/Main/contact.html" onclick="navigateToLocalFile('contact.html')">Contact</a>
+    <a class="s" href="/Main/FAQ.html" onclick="navigateToLocalFile('FAQ.html')">FAQ</a>
+      </nav>
+    </div>
+  </center>
+
+    <div class="contact-container">
+        <h1>Contact Us</h1>
+        <p>We're here to assist you. Please fill out the form below or use the contact details to reach us directly.</p>
+
+        <form action="submit_form.php" method="post">
+            <div class="form-group">
+                <label for="name">Your Name:</label>
+                <input type="text" id="name" name="name" required>
+            </div>
+
+            <div class="form-group">
+                <label for="email">Your Email:</label>
+                <input type="email" id="email" name="email" required>
+            </div>
+
+            <div class="form-group">
+                <label for="message">Your Message:</label>
+                <textarea id="message" name="message" rows="4" required></textarea>
+            </div>
+
+            <button type="submit">Submit</button>
+        </form>
+
+        <div class="contact-details">
+            <h2>Contact Details</h2>
+            <p>Email: <a href="mailto:info@tasteaplace.com">info@tasteaplace.com</a></p>
+            <p>Phone: +639178955235</p>
+            <p>Address: 1440 M Laserna, Kalibo, 5600 Aklan</p>
+        </div>
+    </div>
+
+  <footer>
+    <div class="footer-container">
+      <div class="footer-section-about">
+        <img id="logo" src="/images/logotrsp.png">
+        <hr>
+        <h1>Welcome to Taste A Place, where we share our passion for creating and enjoying delectable dishes.</h1>
+    </div>
+    <div class="footer-section-about2">
+      <hr> 
+      <p>Our mission is to inspire and empower food enthusiasts to explore the art of cooking.</p>
+      <p>Discover the secrets of exquisite flavors and culinary experiences.</p>
+      <p>Let's savor every moment and every bite together!</p>
+  
+    </div>
+  </footer>
+  <div class="footer">
+    <hr class="footer-line">
+    <p>&copy; 2023 Taste A Place. All rights reserved.</p>
+    <div class="footer-links">
+      <a href="/Main/home.html" onclick="navigateToLocalFile('home.html')">Home</a>
+      <a href="/Main/recipes.html" onclick="navigateToLocalFile('recipes.html')">Recipes</a>
+      <a href="/Main/contact.html" onclick="navigateToLocalFile('contact.html')">Contact</a>
+      <a href="/Main/FAQ.html" onclick="navigateToLocalFile('FAQ.html')">FAQ</a>
+    </div>
+  </div>
+  
+</body>
+</html>
