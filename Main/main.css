@@ -255,19 +255,28 @@ footer p {
 }
 /* Footer */
 /* Next&Previous */
-.buttons  a {
+.buttons {
+  padding: 8px 0px;
+  margin-bottom: 20px;
+  text-align: center;
+  display: flex;
+}
+.buttons a {
   text-decoration: none;
   display: inline-block;
-  padding: 8px 20px;
 }
 
 .previous {
-  background-color: #EFD9CC;
-  color: #06413D;
+  background-color: #06413D;
+  color: #EFD9CC;
+  font-size: 20px;
+  width: 100%;
 }
 
 .next {
-  background-color: #EFD9CC;
-  color: #06413D;
+  background-color: #06413D;
+  color: #EFD9CC;
+  width: 100%;
+  font-size: 20px;
 }
 /* Next&Previous */

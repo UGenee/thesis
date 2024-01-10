@@ -1,89 +1,73 @@
 <!DOCTYPE html>
-
 <html lang="en">
-
 <head>
-
     <meta charset="UTF-8">
-
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-    <link rel="stylesheet" href="test.css">
-
-    <title>Cappuccino Recipe</title>
-
+    <title>Dynamic Local Page Navigation</title>
 </head>
-
 <body>
 
-    <header>
+<!-- Navigation links -->
+<a href="#" id="previousLink" onclick="goPrevious()">Previous</a>
+<a href="#" id="nextLink" onclick="goNext()">Next</a>
 
-        Cappuccino Recipe
+<!-- Container to display loaded content -->
+<div id="contentContainer"></div>
 
-      </header>
+<script>
+// Common base URL for local pages
+const baseUrl = './Main/page'; // Adjust this based on your local page structure
 
-      <main>
+let currentIndex = 1; // Starting index
 
-        <img src="https://esquirescoffee.co.uk/wp-content/uploads/2021/11/drew-coffman-tZKwLRO904E-unsplash.jpg" alt="Cappuccino" class="center">
+// Function to go to the previous page
+function goPrevious() {
+    if (currentIndex > 1) {
+        currentIndex--;
+        updateNavigationLinks();
+        loadPage(currentIndex);
+    }
+}
 
- 
+// Function to go to the next page
+function goNext() {
+    // Assuming you don't know the total number of pages in advance
+    currentIndex++;
+    updateNavigationLinks();
+    loadPage(currentIndex);
+}
 
-        <div class="card">
+// Function to load a local page dynamically
+function loadPage(index) {
+    const pageUrl = baseUrl + index + '.html';
 
-            <p class="card-text"><center>
+    // Create a new XMLHttpRequest object
+    const xhr = new XMLHttpRequest();
 
-                If you want a delicious cappuccino but are unable to visit your local coffee shop,
+    // Define the callback function to handle the response
+    xhr.onreadystatechange = function() {
+        if (xhr.readyState === 4 && xhr.status === 200) {
+            // Replace the content of the container with the loaded HTML
+            document.getElementById('contentContainer').innerHTML = xhr.responseText;
+        }
+    };
 
-                follow these instructions to prepare one at home. Savor and enjoy your freshly made cappuccino!
+    // Open a GET request for the specified HTML file
+    xhr.open('GET', pageUrl, true);
 
-            </p></center>
+    // Send the request
+    xhr.send();
+}
 
-        </div>
-        <div class="container">
+// Function to update the state of navigation links
+function updateNavigationLinks() {
+    document.getElementById('previousLink').href = currentIndex > 1 ? '#' : 'javascript:void(0)';
+}
 
-        <div class="Ingre-container">
+// Initial update of the navigation links and loading the first page
+updateNavigationLinks();
+loadPage(currentIndex);
+</script>
 
-            <h2>Ingredients</h2>
-
-            <li>2 shot of espresso</li>
-
-            <li>180 ml cup of steamed milk</li>
-
-            <li>1/3 froth</li>
-
-            <li>Cinnamon powder on top for garnish</li>
-
-            <li>Serve with sugar syrup on the side </li>
-
-        </div>
-
-        <div class="Instru-container">
-            
-            <h2>Instructions</h2>
-
-            <li>Brew a shot of espresso.</li>
-
-            <li>Steam the milk until it become foamy</li>
-
-            <li>Pour the hot espresso into a cup.</li>
-
-            <li>Pour the hot milk over the espresso.</li>
-
-            <li>Spoon the milk foam on top.</li>
-
-            <li>Sprinkle cinnamon powder on top for garnish.</li>
-
-            <li>Optional: Add sugar on the side</li>
-
-        </div>
-
-    </div>
-
-          <div class="recipe">
-
-            <p>Enjoy your delightful cappuccino!</p>
-
-          </div>
-
-    </body>
+</body>
 </html>
