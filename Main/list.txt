@@ -1,11 +1,15 @@
 italian 8 
 ricotta pancakes
+parmesan
 
 fusion 8
 sweet corn pancakes
 sipo eggs
 
-australia 8
+Austria  
+Kasespatzla= dinner 
+Tiroler grostl= dinner 
+Potato goulash=dinner 
 
 
 american 8
@@ -51,3 +55,7 @@ Chinese spring rolls
 dinner  *
 Kung pao chicken
 Mapo tofu
+Parmesan
+Kasespatzla= dinner 
+Tiroler grostl= dinner 
+Potato goulash=dinner 
