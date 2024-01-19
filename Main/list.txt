@@ -13,7 +13,9 @@ Potato goulash
 
 
 american 8
-
+Fluffy American Pancakes with cherry-berry syrup
+egg tart
+country fried
 
 chinese 8
 DONE - Divine
@@ -46,40 +48,41 @@ Espinaca /
 mandazi /
 friedrice /
 dumpling /
-chipas
-medialunes 
+chipas /
+medialunes /
 "The Big Fry"
 Smashed avocado on toast
+Fluffy American Pancakes with cherry-berry syrup
 
 
 brunch *
-italianbaked
-Pan fried pork bun
-Stuffed stickey rice rolls
-Argentinian Empanadas (Empanadas Argentinas)
-Revuelto de Gramajo
+italianbaked /
+Pan fried pork bun /
+Stuffed stickey rice rolls /
+Argentinian Empanadas (Empanadas Argentinas) /
+Revuelto de Gramajo /
 Meat pies 
 Hamburger With Beetroot
 
 
 lunch  * 
-sipo eggs
-sisig
-Congee
-Chinese spring rolls
-humitas en challa
-asado
+sipo eggs /
+sisig /
+Congee /
+Chinese spring rolls /
+humitas en challa /
+asado / 
 Barramundi salad
 Fish and Chips 
 
 dinner  *
-Kung pao chicken
-Mapo tofu
-Parmesan
-Kasespatzla= dinner 
-Tiroler grostl= dinner 
-Potato goulash=dinner 
-Matambre arrollado
-Carbonada
+Kung pao chicken /
+Mapo tofu /
+Parmesan /
+Kasespatzla= dinner  /
+Tiroler grostl= dinner  /
+Potato goulash=dinner /
+Matambre arrollado /
+Carbonada /
 Chicken parmigiana
 Kangaroo tail bourguignon with mashed potato
