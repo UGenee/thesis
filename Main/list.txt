@@ -1,11 +1,15 @@
 italian 8 
 ricotta pancakes
+parmesan
 
 fusion 8
 sweet corn pancakes
 sipo eggs
 
-australia 8
+Austria  
+Kasespatzla
+Tiroler grostl 
+Potato goulash
 
 
 american 8
@@ -28,26 +32,30 @@ mandazi and chai
 
 
 breakfast *
-ricotta
-sweetcorn
-Espinaca
-mandazi
-friedrice
-dumpling
+ricotta /
+sweetcorn /
+Espinaca /
+mandazi /
+friedrice /
+dumpling /
 
 
 brunch *
-italianbaked
-Pan fried pork bun
-Stuffed stickey rice rolls
+italianbaked /
+Pan fried pork bun /
+Stuffed stickey rice rolls /
 
 
 lunch  * 
-sipo eggs
-sisig
-Congee
-Chinese spring rolls
+sipo eggs /
+sisig /
+Congee /
+Chinese spring rolls /
 
 dinner  *
-Kung pao chicken
-Mapo tofu
+Kung pao chicken /
+Mapo tofu /
+Parmesan /
+Kasespatzla /
+Tiroler grostl /
+Potato goulash /
