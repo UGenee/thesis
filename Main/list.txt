@@ -7,9 +7,9 @@ sweet corn pancakes
 sipo eggs
 
 Austria  
-Kasespatzla= dinner 
-Tiroler grostl= dinner 
-Potato goulash=dinner 
+Kasespatzla
+Tiroler grostl 
+Potato goulash
 
 
 american 8
@@ -40,6 +40,7 @@ mandazi and chai
 
 
 breakfast *
+<<<<<<< HEAD
 ricotta
 sweetcorn
 Espinaca
@@ -82,3 +83,32 @@ Matambre arrollado
 Carbonada
 Chicken parmigiana
 Kangaroo tail bourguignon with mashed potato
+=======
+ricotta /
+sweetcorn /
+Espinaca /
+mandazi /
+friedrice /
+dumpling /
+
+
+brunch *
+italianbaked /
+Pan fried pork bun /
+Stuffed stickey rice rolls /
+
+
+lunch  * 
+sipo eggs /
+sisig /
+Congee /
+Chinese spring rolls /
+
+dinner  *
+Kung pao chicken /
+Mapo tofu /
+Parmesan /
+Kasespatzla /
+Tiroler grostl /
+Potato goulash /
+>>>>>>> 29bb099adf1d806c3c928b6ac56784dd4427354c
