@@ -30,14 +30,6 @@ chipas
 humitas en chala
 matambre arrollado
 revuelto
-argentina empanada
-argentinian medialu
-asado
-carbonada criolla
-chipas
-humitas en chala
-matambre arrollado
-revuelto
 
 
 french 8
@@ -54,6 +46,10 @@ Espinaca /
 mandazi /
 friedrice /
 dumpling /
+chipas
+medialunes 
+"The Big Fry"
+Smashed avocado on toast
 
 
 brunch *
