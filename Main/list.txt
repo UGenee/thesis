@@ -22,6 +22,14 @@ Congee
 
 argentina 8
 Bunuelos de Espinaca
+argentina empanada
+argentinian medialu
+asado
+carbonada criolla
+chipas
+humitas en chala
+matambre arrollado
+revuelto
 
 
 french 8
@@ -38,12 +46,19 @@ Espinaca
 mandazi
 friedrice
 dumpling
-
+chipas
+medialunes 
+"The Big Fry"
+Smashed avocado on toast
 
 brunch *
 italianbaked
 Pan fried pork bun
 Stuffed stickey rice rolls
+Argentinian Empanadas (Empanadas Argentinas)
+Revuelto de Gramajo
+Meat pies 
+Hamburger With Beetroot
 
 
 lunch  * 
@@ -51,6 +66,10 @@ sipo eggs
 sisig
 Congee
 Chinese spring rolls
+humitas en challa
+asado
+Barramundi salad
+Fish and Chips 
 
 dinner  *
 Kung pao chicken
@@ -59,3 +78,7 @@ Parmesan
 Kasespatzla= dinner 
 Tiroler grostl= dinner 
 Potato goulash=dinner 
+Matambre arrollado
+Carbonada
+Chicken parmigiana
+Kangaroo tail bourguignon with mashed potato
