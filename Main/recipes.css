@@ -18,6 +18,14 @@ body {
   cursor: pointer;
   margin-left: 20px;
 }
+#logo {
+  max-width: 100%;
+  max-height: 100%;
+  width: 350px;
+  padding: 1px;
+  cursor: pointer;
+  display: inherit;
+}
 .topnav {
   overflow: hidden;
   color: white;
@@ -104,21 +112,6 @@ a {
 }
 hr {
   margin: 20px;
-}
-.logo {
-  max-width: 100%;
-  max-height: 100%;
-  width: 350px;
-  cursor: pointer;
-  margin-left: 20px;
-}
-#logo {
-  max-width: 100%;
-  max-height: 100%;
-  width: 30%;
-  padding: 1px;
-  cursor: pointer;
-  display: inherit;
 }
 p {
   font-size: 60px;
