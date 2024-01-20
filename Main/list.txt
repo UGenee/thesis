@@ -65,6 +65,8 @@ Smashed avocado on toast
 Fluffy American Pancakes with cherry-berry syrup
 Shakshouka
 Fit-Fit
+Eggs En Cocotte
+Almond French Toast
 
 
 brunch *
@@ -78,6 +80,8 @@ Hamburger With Beetroot
 Banana Biscoti
 Bacon Wrapped Platains
 Biscuits ‘n’ gravy
+Brunch-Worthy Air Fryer French Toast
+Brunch Baked French Toast
 
 lunch  * 
 sipo eggs /
@@ -89,6 +93,9 @@ asado /
 Barramundi salad
 Fish and Chips 
 Fajitas
+Ratatouille
+Chicken Cordon Bleu
+Boeuf Bourguignon
 
 dinner  *
 Kung pao chicken /
@@ -103,3 +110,5 @@ Chicken parmigiana
 Kangaroo tail bourguignon with mashed potato
 African Curry
 Jollof rice
+Poached Salmon with Hollandaise Sauce
+French Onion Soup Gratinée
