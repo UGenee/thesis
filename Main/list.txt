@@ -1,10 +1,12 @@
 italian 8 
 ricotta pancakes
 parmesan
+Banana Biscoti
 
 fusion 8
 sweet corn pancakes
 sipo eggs
+Bacon Wrapped Platains
 
 Austria  
 Kasespatzla
@@ -39,7 +41,9 @@ DONE - Andrew
 
 African 8
 mandazi and chai
-
+Shakshouka
+Fit-Fit
+African Curry
 
 breakfast *
 ricotta /
@@ -53,6 +57,8 @@ medialunes /
 "The Big Fry"
 Smashed avocado on toast
 Fluffy American Pancakes with cherry-berry syrup
+Shakshouka
+Fit-Fit
 
 
 brunch *
@@ -63,7 +69,8 @@ Argentinian Empanadas (Empanadas Argentinas) /
 Revuelto de Gramajo /
 Meat pies 
 Hamburger With Beetroot
-
+Banana Biscoti
+Bacon Wrapped Platains
 
 lunch  * 
 sipo eggs /
@@ -86,3 +93,5 @@ Matambre arrollado /
 Carbonada /
 Chicken parmigiana
 Kangaroo tail bourguignon with mashed potato
+African Curry
+Jollof rice
