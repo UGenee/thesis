@@ -60,13 +60,13 @@ friedrice /
 dumpling /
 chipas /
 medialunes /
-"The Big Fry"
-Smashed avocado on toast
-Fluffy American Pancakes with cherry-berry syrup
-Shakshouka
-Fit-Fit
-Eggs En Cocotte
-Almond French Toast
+"The Big Fry" /
+Smashed avocado on toast /
+Fluffy American Pancakes with cherry-berry syrup /
+Shakshouka / 
+Fit-Fit /
+Eggs En Cocotte /
+Almond French Toast /
 
 
 brunch *
@@ -75,13 +75,13 @@ Pan fried pork bun /
 Stuffed stickey rice rolls /
 Argentinian Empanadas (Empanadas Argentinas) /
 Revuelto de Gramajo /
-Meat pies 
-Hamburger With Beetroot
-Banana Biscoti
-Bacon Wrapped Platains
-Biscuits ‘n’ gravy
-Brunch-Worthy Air Fryer French Toast
-Brunch Baked French Toast
+Meat pies /
+Hamburger With Beetroot /
+Banana Biscoti /
+Bacon Wrapped Platains /
+Biscuits ‘n’ gravy /
+Brunch-Worthy Air Fryer French Toast /
+Brunch Baked French Toast /
 
 lunch  * 
 sipo eggs /
@@ -90,12 +90,12 @@ Congee /
 Chinese spring rolls /
 humitas en challa /
 asado / 
-Barramundi salad
-Fish and Chips 
-Fajitas
-Ratatouille
-Chicken Cordon Bleu
-Boeuf Bourguignon
+Barramundi salad /
+Fish and Chips  /
+Fajitas  /
+Ratatouille /
+Chicken Cordon Bleu /
+Harira / 
 
 dinner  *
 Kung pao chicken /
@@ -106,9 +106,9 @@ Tiroler grostl= dinner  /
 Potato goulash=dinner /
 Matambre arrollado /
 Carbonada /
-Chicken parmigiana
-Kangaroo tail bourguignon with mashed potato
-African Curry
-Jollof rice
-Poached Salmon with Hollandaise Sauce
-French Onion Soup Gratinée
+Chicken parmigiana /
+Kangaroo tail bourguignon with mashed potato /
+African Curry /
+Jollof rice /
+Poached Salmon with Hollandaise Sauce /
+French Onion Soup Gratinée /
