@@ -1,55 +1,92 @@
 italian 8 
-ricotta pancakes
-parmesan
-Banana Biscoti
+ricotta pancakes /
+parmesan /
+Banana Biscoti /
+italian brunch torte /
+grilled eggplant /
+stracciatella /
+tiramisu / 
+bacon and potato /
+
+Recommended recipes
+sipo egg /
+bangus /
+orange chicken /
+kebab
 
 fusion 8
-sweet corn pancakes
-sipo eggs
-Bacon Wrapped Platains
+sweet corn pancakes /
+sipo eggs /
+Bacon Wrapped Platains /
 
 Australia  
-Kasespatzla
-Tiroler grostl 
-Potato goulash
+aussie beef burger /
+meat pie /
+avocado toast /
+breakfast egg tart /
+chicken parmigiana /
+fish n Chips /
+kangaroo tail /
+Barramundi /
+breakfast fry up /
+
 
 
 american 8
-Fluffy American Pancakes with cherry-berry syrup
-country fried
-keylime
-texas beef
-omellete american
-breakfast muffin
-tator tots
-Fajitas
-Biscuits ‘n’ gravy
+Fluffy American Pancakes with cherry-berry syrup /
+country fried /
+keylime /
+texas beef /
+omellete american /
+breakfast muffin /
+tator tots /
+Fajitas /
+Biscuits ‘n’ gravy /
 
-chinese 8
-DONE - Divine
-friedrice
-Congee
+chinese 9
+friedrice /
+Congee /
+spring roll /
+kung pao chicken /
+mapo tofu /
+pan fried /
+pork dumpling /
+Stuffed stickey /
+Sweet and Sour Pork /
 
-argentina 8
-Bunuelos de Espinaca
-argentina empanada
-argentinian medialu
-asado
-carbonada criolla
-chipas
-humitas en chala
-matambre arrollado
-revuelto
+argentina 9
+Bunuelos de Espinaca /
+argentina empanada /
+argentinian medialu /
+asado /
+carbonada criolla /
+chipas /
+humitas en chala /
+matambre arrollado /
+revuelto /
 
 
-french 8
-DONE - Andrew
+french 9
+almond french toast /
+baked french toast /
+air Fryer /
+chicken Cordon /
+eggs en Cocotte /
+onion soup /
+ratatata /
+poached Salmon /
+tarte tatin /
 
 African 8
-mandazi and chai
-Shakshouka
-Fit-Fit
-African Curry
+mandazi and chai /
+Shakshouka /
+Fit-Fit /
+African Curry /
+Ful medames /
+Harira /
+Jollof rice /
+Papenvleis /
+Piri piri chicken /
 
 breakfast *
 ricotta /
@@ -67,6 +104,7 @@ Shakshouka /
 Fit-Fit /
 Eggs En Cocotte /
 Almond French Toast /
+tiramisu /
 
 
 brunch *
@@ -82,6 +120,8 @@ Bacon Wrapped Platains /
 Biscuits ‘n’ gravy /
 Brunch-Worthy Air Fryer French Toast /
 Brunch Baked French Toast /
+bacon and eggs /
+torte /
 
 lunch  * 
 sipo eggs /
@@ -96,6 +136,10 @@ Fajitas  /
 Ratatouille /
 Chicken Cordon Bleu /
 Harira / 
+eggplant caprese /
+stracciatella soup /
+kebab
+Pizza
 
 dinner  *
 Kung pao chicken /
@@ -112,3 +156,5 @@ African Curry /
 Jollof rice /
 Poached Salmon with Hollandaise Sauce /
 French Onion Soup Gratinée /
+Risotto /
+orange chicken
