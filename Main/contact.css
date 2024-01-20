@@ -2,12 +2,13 @@ body {
     font-family: 'Prata';
     margin: 0;
     padding: 0;
-    background: linear-gradient(to right, #06413D, #068b83);
+    background-color: #EFD9CC ;
     overflow-x: hidden;
 }
+
 .contact-container {
     max-width: 600px;
-    margin: 100px auto;
+    margin: 20px auto;
     background-color: #fff;
     border-radius: 10px;
     box-shadow: 0 0 0 3px rgba(66, 153, 225, 0.5);
