@@ -16,8 +16,14 @@ Potato goulash
 
 american 8
 Fluffy American Pancakes with cherry-berry syrup
-egg tart
 country fried
+keylime
+texas beef
+omellete american
+breakfast muffin
+tator tots
+Fajitas
+Biscuits ‘n’ gravy
 
 chinese 8
 DONE - Divine
@@ -71,6 +77,7 @@ Meat pies
 Hamburger With Beetroot
 Banana Biscoti
 Bacon Wrapped Platains
+Biscuits ‘n’ gravy
 
 lunch  * 
 sipo eggs /
@@ -81,6 +88,7 @@ humitas en challa /
 asado / 
 Barramundi salad
 Fish and Chips 
+Fajitas
 
 dinner  *
 Kung pao chicken /
