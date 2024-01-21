@@ -280,3 +280,15 @@ footer p {
   font-size: 20px;
 }
 /* Next&Previous */
+.Back-link {
+  display: inline-block;
+  margin-top: 20px;
+  margin-bottom: 30px;
+  padding: 10px 20px;
+  font-size: 20px;
+  text-decoration: none;
+  background-color: #06413D;
+  color: #EFD9CC;
+  border-radius: 5px;
+  text-align: center;
+}
