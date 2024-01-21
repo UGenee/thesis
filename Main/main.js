@@ -16,7 +16,7 @@ function showSlides() {
   }
   slides[slideIndex-1].style.display = "block";  
   dots[slideIndex-1].className += " active";
-  setTimeout(showSlides, 4000); // Change image every 3 seconds
+  setTimeout(showSlides, 5000); // Change image every 3 seconds
 }
 
 // Footer picture
@@ -84,3 +84,9 @@ function navigateToLocalFile(filePath) {
 //code.jquery.com/jquery-3.5.1.slim.min.js">
 //cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js">
 //maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js">
+
+//clickable
+function navigateToCategory(page) {
+  window.location.href = page;
+}
+//clickable

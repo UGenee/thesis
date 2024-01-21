@@ -70,3 +70,4 @@ function navigateToLocalFile(filePath) {
     window.location.href = filePath;
 }
 // Navigation
+

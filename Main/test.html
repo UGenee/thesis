@@ -3,65 +3,38 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Navigation Example</title>
+    <style>
+        .nav-link {
+            text-decoration: none;
+            color: #06413D;
+            font-size: 20px;
+        }
+
+        .bold-link {
+            font-weight: bold;
+        }
+    </style>
 </head>
 <body>
 
+<nav>
+    <a href="H" class="nav-link" onclick="handleClick(this)">Home</a>
+    <a href="#" class="nav-link" onclick="handleClick(this)">Recipes</a>
+    <a href="#" class="nav-link" onclick="handleClick(this)">Contact</a>
+    <a href="#" class="nav-link" onclick="handleClick(this)">FAQ</a>
+</nav>
 
-    <div class="title">
-        <div class="navigation-buttons">
-            <button onclick="showPreviousRecipe()">Previous</button>
-        <h1>Breakfast
-            <button onclick="showNextRecipe()">Next</button>
-        </h1>
-        </div>
-    </div>
-    
+<script>
+    function handleClick(link) {
+        // Remove the 'bold-link' class from all links
+        var links = document.querySelectorAll('.nav-link');
+        links.forEach(function (el) {
+            el.classList.remove('bold-link');
+        });
 
-
-
-
-
-
-
-
-
-
-
-        <script>
-    var currentRecipeIndex = 0; // Initialize the index of the current recipe
-
-    function showNextRecipe() {
-        // Increment the index
-        currentRecipeIndex++;
-
-        // Check if the index exceeds the number of recipes
-        if (currentRecipeIndex >= document.querySelectorAll('.col-md-6').length) {
-            currentRecipeIndex = 0; // Reset to the first recipe
-        }
-
-        // Call a function to display the recipe based on the index (you can implement this function)
-        displayRecipe(currentRecipeIndex);
-    }
-
-    function showPreviousRecipe() {
-        // Decrement the index
-        currentRecipeIndex--;
-
-        // Check if the index is less than 0
-        if (currentRecipeIndex < 0) {
-            // Set the index to the last recipe
-            currentRecipeIndex = document.querySelectorAll('.col-md-6').length - 1;
-        }
-
-        // Call a function to display the recipe based on the index (you can implement this function)
-        displayRecipe(currentRecipeIndex);
-    }
-
-    function displayRecipe(index) {
-        // Implement the logic to display the recipe based on the index
-        // You can use JavaScript to show/hide recipes or update the content dynamically
-        // For example, you can toggle a "hidden" class on recipe elements.
+        // Add the 'bold-link' class to the clicked link
+        link.classList.add('bold-link');
     }
 </script>
 
