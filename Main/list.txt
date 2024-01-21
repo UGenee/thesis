@@ -122,6 +122,7 @@ Brunch-Worthy Air Fryer French Toast /
 Brunch Baked French Toast /
 bacon and eggs /
 torte /
+Pizza / 
 
 lunch  * 
 sipo eggs /
@@ -138,8 +139,7 @@ Chicken Cordon Bleu /
 Harira / 
 eggplant caprese /
 stracciatella soup /
-kebab
-Pizza
+kebab /
 
 dinner  *
 Kung pao chicken /
@@ -157,4 +157,4 @@ Jollof rice /
 Poached Salmon with Hollandaise Sauce /
 French Onion Soup Gratinée /
 Risotto /
-orange chicken
+orange chicken /

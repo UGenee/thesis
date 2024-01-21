@@ -2,41 +2,68 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Bold Link Example</title>
-    <style>
-        .bold-link {
-            font-weight: bold;
-        }
-    </style>
+    <title>Document</title>
 </head>
 <body>
 
-    <a href="#" id="myLink">Click me</a>
 
-    <script>
-        // Function to handle the link click
-        function handleClick(event) {
-            // Prevent the default behavior (redirecting to the href)
-            event.preventDefault();
+    <div class="title">
+        <div class="navigation-buttons">
+            <button onclick="showPreviousRecipe()">Previous</button>
+        <h1>Breakfast
+            <button onclick="showNextRecipe()">Next</button>
+        </h1>
+        </div>
+    </div>
+    
 
-            // Make the link bold
-            event.target.classList.add('bold-link');
 
-            // Perform any other actions you need, like redirecting
-            // For demonstration purposes, let's simulate a redirect after 2 seconds
-            setTimeout(function () {
-                window.location.href = "/Main/home.html";
-            }, 2000);
+
+
+
+
+
+
+
+
+
+        <script>
+    var currentRecipeIndex = 0; // Initialize the index of the current recipe
+
+    function showNextRecipe() {
+        // Increment the index
+        currentRecipeIndex++;
+
+        // Check if the index exceeds the number of recipes
+        if (currentRecipeIndex >= document.querySelectorAll('.col-md-6').length) {
+            currentRecipeIndex = 0; // Reset to the first recipe
         }
 
-        // Get the link element by its ID
-        var myLink = document.getElementById('myLink');
+        // Call a function to display the recipe based on the index (you can implement this function)
+        displayRecipe(currentRecipeIndex);
+    }
 
-        // Attach the handleClick function to the link's click event
-        myLink.addEventListener('click', handleClick);
-    </script>
+    function showPreviousRecipe() {
+        // Decrement the index
+        currentRecipeIndex--;
+
+        // Check if the index is less than 0
+        if (currentRecipeIndex < 0) {
+            // Set the index to the last recipe
+            currentRecipeIndex = document.querySelectorAll('.col-md-6').length - 1;
+        }
+
+        // Call a function to display the recipe based on the index (you can implement this function)
+        displayRecipe(currentRecipeIndex);
+    }
+
+    function displayRecipe(index) {
+        // Implement the logic to display the recipe based on the index
+        // You can use JavaScript to show/hide recipes or update the content dynamically
+        // For example, you can toggle a "hidden" class on recipe elements.
+    }
+</script>
 
 </body>
 </html>

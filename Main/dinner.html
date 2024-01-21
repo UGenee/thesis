@@ -27,8 +27,12 @@
         </div>
       </center>
 
-          <div class="title">
-        <h1>Dinner</h1>
+      <div class="title">
+        <a href="lunch.html" class="nav-link" onclick="showPreviousRecipe(); return false;">&lt;</a>
+        <div class="centered-text">
+            <h1>Dinner</h1>
+        </div>
+        <a href="#" class="nav-link" id="die" onclick="showNextRecipe(); return false;">&gt;</a>
     </div>
     <div class="row">
 
@@ -178,6 +182,16 @@
               <img src="/images/Risotto.jpg" class="card-img-top" alt="Recipe Image 1">
               <div class="card-body">
                 <h3 class="card-title">Risotto</h3></a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-6">
+            <div class="card">
+              <a href="/Main/orangechicken.html" onclick="navigateToLocalFile('orangechicken.html')">
+              <img src="/images/orangechicken.jpg" class="card-img-top" alt="Recipe Image 1">
+              <div class="card-body">
+                <h3 class="card-title">Orange Chicken</h3></a>
               </div>
             </div>
           </div>
